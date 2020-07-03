@@ -1,0 +1,30 @@
+#encabezado {
+
+    background-color: rgba(46, 204, 204, 0.849);
+    color: white;
+    text-align: left;    
+    width: 30%;
+    float: left;
+    font-size: 35px;
+}
+
+
+body{
+  width: 1400px;
+  margin: auto;
+
+}
+.cont{
+
+  background-color: grey;
+}
+  #lista1{
+      float: left;
+    width: 13%;
+    padding: 10px;
+  }
+  #lista2{
+    float: left;
+    width: 13%;
+    padding: 10px;
+}
